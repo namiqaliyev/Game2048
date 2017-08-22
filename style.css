@@ -1,0 +1,18 @@
+body{
+			margin: 50px;
+			background: #EEE;
+		}
+		table{
+			border-collapse: collapse;
+			margin: auto;
+			background-color: #f0cf9e;
+		}
+		table tr,td{
+			height: 100px;
+			width: 100px;
+			border: 5px solid white;
+			vertical-align: center;
+			text-align: center;
+			font-family: "Arial";
+			font-size: 50pt;
+		}
